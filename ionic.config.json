@@ -1,0 +1,8 @@
+{
+  "name": "Fresh Start",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "77aa4c5d"
+}
